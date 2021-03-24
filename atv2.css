@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.div_pai {
+    background-color: black;
+    height: 100px;
+}
+
+ul {
+    list-style: none;
+    display: inline;
+}
+
+ul li {
+    font-size: large;
+    color: white;
+    display: inline;
+    margin-left: 30px;
+}
+
+nav {
+    max-width: 1900px;
+    margin-left: 100px;
+    padding-top: 35px;
+}
+
+#projeto_cabecalho {
+    color: orange;
+    font-size: xx-large;
+}
+
+#iot_cabecalho {
+    color: white;
+    font-size: xx-large;
+}
+
+#home {
+    color: orange;  
+    margin-left: 1000px; 
+}

@@ -1,0 +1,18 @@
+.div_um {
+    background-color: blue;
+    height: 50px;   
+}
+
+.div_dois {
+    background-color: chartreuse;
+    height: 400px;    
+}
+
+.div_quatro {
+    background-color: cyan;
+    height: 50px;    
+}
+
+.mesmo_width {
+    width: 10%;
+}
