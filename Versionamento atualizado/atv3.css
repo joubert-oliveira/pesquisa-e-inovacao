@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#div_nav {
+    background-color: rgb(31, 31, 31);
+    height: 100px;
+    border-bottom: 5px solid orange;
+}
+
+ul {
+    list-style: none;
+    display: inline;
+}
+
+ul li {
+    font-size: large;
+    color: white;
+    display: inline;
+    margin-left: 30px;
+}
+
+nav {
+    max-width: 1900px;
+    margin-left: 100px;
+    padding-top: 35px;
+}
+
+#projeto_cabecalho {
+    color: orange;
+    font-size: xx-large;
+}
+
+#iot_cabecalho {
+    color: white;
+    font-size: xx-large;
+}
+
+#home {
+    color: orange;      
+    margin-left: 48%; 
+}
+
+.but_email {
+    border: solid 2px;
+    border-color: orange;
+    height: 30px;
+    background-color: orange;
+    color: white;
+}
+
+.atualizacao {
+    font-size: 35px;
+    color: white;
+}
+
+.div_atualizacoes {
+    background-color: rgb(31, 31, 31);
+    height: 100px;
+    /* border-bottom: 5px solid orange; */
+}
+
+.input_atualizacao {
+    margin-left: 54%;
+    height: 25px;
+}
+
+.div_imagem {
+    background-image: url(team.png);
+    min-height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* border-bottom: 5px solid orange; */
+}
+
+.div_imagem {
+    text-align: center;
+}
+
+.div_imagem h1 {
+    margin: 0;   
+    font-size: 50px;
+    color: orange;
+    padding-top: 8%;
+}
+
+.div_imagem b {   
+    white-space: pre-line;
+    color: white;
+    margin-top: 50px;
+}
+
+#img_missao {
+    height: 100px;
+    width: 100px;
+}
+
+#img_visao {
+    height: 100px;
+    width: 100px;
+}
+
+#img_valores {
+    height: 100px;
+    width: 100px;
+}
+
+.div_mvv {
+    display: inline-block;
+    padding: 10px;
+}
+
+.div_mvv p {
+    white-space: pre-line;
+}
+
+.div_mvv_pai {
+    text-align: center;
+    padding-top: 50px;
+    background-color: rgb(206, 206, 206);
+    min-height: 150px;
+    border-bottom: 5px solid orange;
+}
+
+.div_footer {
+    text-align: center;
+    font-size: 20px;
+    background-color: orange;
+    height: 50px;
+    padding-top: 25px;
+}
+
+

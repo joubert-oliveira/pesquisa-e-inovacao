@@ -42,3 +42,32 @@ nav {
     /* margin-left: 1000px;  */
     margin-left: 50%; 
 }
+
+.but_email {
+    border: solid 2px;
+    border-color: orange;
+    height: 30px;
+    background-color: orange;
+    color: white;
+}
+
+.atualizacao {
+    font-size: 35px;
+    color: white;
+}
+
+.div_atualizacoes {
+    background-color: black;
+    height: 100px;
+}
+
+.input_atualizacao {
+    margin-left: 54%;
+    height: 25px;
+}
+
+#div_separacao {
+    height: 5px;
+    background-color: orange;
+}
+
