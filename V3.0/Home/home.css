@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.item_colorido_laranja {
+    color: orange;
+}
+
+.item_colorido_branco {
+    color: white;
+}
+
+/* -------------------- INÍCIO HEADER --------------------  */
+
+.container-header {
+    background-color: rgb(31, 31, 31);
+    height: 100px;
+    width: 100%;
+    border-bottom: 5px solid orange;
+}
+
+.container-header b {
+    cursor: pointer;
+}
+
+.container-header li {
+    cursor: pointer;
+}
+
+.content {
+    max-width: 90%;  
+    margin-left: 5%; 
+    padding-top: 25px;
+}
+
+.content b {
+    font-size: xx-large;
+    float: left;
+}
+
+.content ul {
+    list-style: none;
+    display: inline;
+    float: right;
+}
+
+.content ul li {
+    font-size: large;
+    color: white;
+    display: inline;
+}
+
+.content li {
+    margin-left: 30px;
+}
+
+/* -------------------- FIM HEADER --------------------  */
+
+/* -------------------- INÍCIO APRESENTAÇÃO --------------------  */
+
+.apresentacao {
+    background-image: url(team.png);
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.apresentacao h1 {
+    margin: 0;
+    padding-top: 150px;
+    font-size: 50px;
+}
+
+.apresentacao p {
+    font-size: 30px;
+    white-space: pre-line;
+}
+
+/* -------------------- FIM APRESENTAÇÃO --------------------  */
+
+/* -------------------- INÍCIO ATUALIZAÇÕES --------------------  */
+
+.container-atualizacoes {
+    background-color: rgb(31, 31, 31);
+    height: 100px;
+}
+
+.container-atualizacoes .content {
+    padding-top: 35px;
+}
+
+.container-atualizacoes input {
+    height: 25px;
+}
+
+.container-atualizacoes button {
+    background-color: orange;
+    border: 2px solid orange;
+    border-radius: 20px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.container-atualizacoes button:hover {
+    background-color: orangered;
+    border: 2px solid orangered;
+}
+
+.container-atualizacoes div {
+    float: right;
+}
+
+/* -------------------- FIM ATUALIZAÇÕES --------------------  */
+
+/* -------------------- INÍCIO MISSÃO, VISÃO E VALORES --------------------  */
+
+.itens {
+    width: 100px;
+    height: 100px;
+}
+
+.missao_visao_valores {
+    text-align: center;
+    background-color: rgb(206, 206, 206);
+}
+
+.div_imagens {
+    display: inline-block;
+    padding: 10px;
+    white-space: pre-line;
+}
+
+/* -------------------- FIM MISSÃO, VISÃO E VALORES --------------------  */
+
+/* -------------------- INÍCIO FOOTER --------------------  */
+
+footer div {
+    background-color: orange;
+    height: 50px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+/* -------------------- FIM FOOTER --------------------  */
+
+
+
